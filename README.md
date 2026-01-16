@@ -1,3 +1,5 @@
+## Remote PHP & Laravel Developer | Helping startups build scalable apps
+
 ## Hi, I’m Jaymie 👋
 
 I’m a **Remote PHP & Laravel Developer** with experience building and maintaining web applications for startups and international clients.
